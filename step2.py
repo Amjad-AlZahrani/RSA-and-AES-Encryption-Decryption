@@ -44,4 +44,4 @@ with open("encrypted_aes_key.bin", "wb") as f:
 with open("iv.bin", "wb") as f:
     f.write(iv)
 
-print("Sucess")
+print("Encryption sucessfully")
